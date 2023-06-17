@@ -1,0 +1,5 @@
+site_name: Subsonic Group Finder documentation
+
+nav:
+    - Home: index.md
+    - About: about.md
